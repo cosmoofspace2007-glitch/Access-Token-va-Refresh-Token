@@ -1,0 +1,5 @@
+app:
+  jwt:
+    secret: "vS6K5Vh8N2z2B4xR9mQ3pL1wT7yC5Vh8N2z2B4xR9mQ3pL1wT7yC5Vh8N2z"
+    access-token-expiration: 900000
+    refresh-token-expiration: 604800000
